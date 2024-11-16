@@ -1,0 +1,45 @@
+h1 {
+font-family: fantasy;
+font-size: xx-large;
+font-weight: bold;
+text-decoration: wavy;
+}
+
+html {
+background-color: #c2b3e5;
+}
+
+h2 {
+    font-style: normal;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+h3 {
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+ul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: lighter;
+}
+
+h1,h2,h3,ul,p {
+    text-align: center;
+    text-decoration: black;
+}
+
+em {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
